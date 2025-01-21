@@ -10,6 +10,7 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Añad
 
 <h2> Despliegue 📦 </h2>
 <p align="justify">La aplicación se despliega mediante navegador web, mediante la siguiente dirección:</p>
+https://dragoninj82.github.io/challenge-amigo-secreto/
 
 <h2> Funcionalidades ⚙️ </h2>
 <p align="justify"> 
