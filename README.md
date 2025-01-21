@@ -29,4 +29,7 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Añad
 <li>Se crea una ultima funcion que genera un indice aleatorio entre 0 y la cantidad de elementos del array (array.length). En base a esta posicion, se retorna el elmento del array y se muestra en la etiqueta HTML correspondiente con template strings. Como funcionalidad adicional, se quita el nombre sorteado del array de manera que el usuario puede volver a sortear un amigo del listado restante.</li>
 </p>
 
+## Autores ✒️
+
+* **Pablo Andrés Pérez Chamorro** - [DragonInj82](https://github.com/DragonInj82)
 
